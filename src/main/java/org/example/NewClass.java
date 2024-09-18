@@ -11,5 +11,8 @@ public class NewClass {
         System.out.println("Set a number:");
         int number=in.nextInt();
         System.out.println("the number is:"+number);
+        System.out.println("Set another number:");
+        int number2=in.nextInt();
+        System.out.println("the second number is:"+number2);
     }
 }
